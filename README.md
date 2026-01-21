@@ -51,3 +51,14 @@ l**Detailed step-by-step pipeline presentation:**
 The analysis was performed using the following reference genome:
 **hg38**  
   https://hgdownload.soe.ucsc.edu/goldenPath/hg38/
+
+  ## Results
+
+### Peak Distribution
+![Peak Distribution](Peak_distribution.jpeg)
+
+### IGV Visualization
+![IGV Peaks](Igv_peaks.jpeg)
+
+### Functional Annotation
+![Functional Analysis](Function_analysis.jpeg)
