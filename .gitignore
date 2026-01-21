@@ -1,0 +1,16 @@
+# Raw sequencing data
+raw_reads/
+
+# Trimmed reads (too large)
+trim/
+
+# Reference genome
+ref_genome/
+
+# Alignment files
+*.bam
+*.bai
+
+# Logs / temp
+*.log
+*.tmp
